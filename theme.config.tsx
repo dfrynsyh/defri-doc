@@ -1,10 +1,10 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
-title = 'This is my title';
-titleTemplate = '%s | Defri';
-
 const config: DocsThemeConfig = {
+title = 'This is my title';
+titleTemplate = '%s | Next SEO';
+
   logo: <span>Defriansyah</span>,
   project: {
     link: 'https://github.com/shuding/nextra-docs-template',
