@@ -1,6 +1,3 @@
-title = 'Defri';
-titleTemplate = '%s | Defri';
-// outputs: Defri | Defri
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
