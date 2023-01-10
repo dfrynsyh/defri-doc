@@ -1,5 +1,5 @@
 import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
+import { DocsThemeConfig } from 'Defri'
 
 const config: DocsThemeConfig = {
   logo: <span>Defriansyah</span>,
