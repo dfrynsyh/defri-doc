@@ -1,6 +1,9 @@
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
+title = 'This is my title';
+titleTemplate = '%s | Defri';
+
 const config: DocsThemeConfig = {
   logo: <span>Defriansyah</span>,
   project: {
